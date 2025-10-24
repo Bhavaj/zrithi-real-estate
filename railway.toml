@@ -1,0 +1,15 @@
+# Railway Deployment Configuration
+
+# Build command (if needed)
+# Railway will automatically detect Node.js and run npm install
+
+# Start command
+# Railway will use: npm start
+
+# Environment variables (set these in Railway dashboard)
+NODE_ENV=production
+PORT=3000
+
+# Optional: Add any additional environment variables
+# DATABASE_URL=your_database_url_here
+# EMAIL_SERVICE_API_KEY=your_email_service_key_here
