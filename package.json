@@ -2,10 +2,10 @@
   "name": "zrithi-real-estate",
   "version": "1.0.0",
   "description": "Professional Real Estate Services Website for Zrithi",
-  "main": "index.html",
+  "main": "public/index.html",
   "scripts": {
-    "build": "echo 'Static site - no build needed'",
-    "start": "echo 'Static site - serve index.html'"
+    "build": "echo 'Static site - files ready in public directory'",
+    "start": "echo 'Static site - serve public/index.html'"
   },
   "keywords": [
     "real-estate",
